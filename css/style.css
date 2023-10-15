@@ -16,3 +16,8 @@ main{
 .imgUserFinanc{
     width: 280px;
 }
+
+.titulo{
+    font-family: 'Black Han Sans', cursive;
+    font-size: 60px;
+}
