@@ -1,0 +1,18 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main{
+    flex-grow: 1;
+}
+
+.logoNav{
+    font-family: 'Lilita One', cursive;
+    font-size: 30px;
+}
+
+.imgUserFinanc{
+    width: 280px;
+}
