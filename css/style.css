@@ -28,3 +28,10 @@ main{
     align-items: center;
     font-size: 38px;
   }
+.card {
+  background-color: #234579;
+}
+
+.card-title, .card-text {
+  color: #FFFFFF; 
+}
